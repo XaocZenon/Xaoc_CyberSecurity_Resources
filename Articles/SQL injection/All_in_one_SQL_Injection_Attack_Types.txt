@@ -1,0 +1,48 @@
+SQL Injection Attack Types
+
+1. Classic SQLi Variants
+   - Boolean-Based Blind SQLi
+   - Time-Based Blind SQLi
+   - Error-Based SQLi
+   - UNION-Based SQLi
+   - Stacked Queries SQLi
+   - Out-of-Band (OOB) SQLi
+
+2. Advanced SQLi Techniques
+   - Polyglot SQLi
+   - Second-Order SQLi
+   - NoSQL Injection
+   - JSON-Based SQLi
+   - GraphQL SQLi
+   - XML-Based SQLi
+   - HQL (Hibernate Query Language) Injection
+   - LDAP Injection
+
+3. Web Application-Specific SQLi
+   - Stored Procedure SQLi
+   - ORM-Based SQLi (Object-Relational Mapping)
+   - Serverless SQLi (Cloud Functions)
+   - HTTP Headers SQLi
+   - WAF Bypass SQLi
+   - Cookie-Based SQLi
+   - Referer-Based SQLi
+   - User-Agent SQLi
+
+4. Database-Specific SQLi
+   - MySQL-Specific SQLi (LOAD_FILE, INTO OUTFILE, SLEEP)
+   - MSSQL-Specific SQLi (xp_cmdshell, sp_executesql)
+   - PostgreSQL-Specific SQLi (pg_sleep, COPY FROM PROGRAM)
+   - Oracle-Specific SQLi (UTL_HTTP, DBMS_SQL)
+   - SQLite-Specific SQLi (ATTACH DATABASE, PRAGMA)
+
+5. Advanced Attack Scenarios
+   - SQLi via WebSockets
+   - SQLi via DNS Exfiltration
+   - SQLi via HTTP/2 Smuggling
+   - SQLi via Content Security Policy (CSP) Bypass
+   - SQLi via Template Engines (ERB, Twig, Jinja2)
+   - SQLi via Cloud Metadata API (AWS, GCP, Azure)
+   - SQLi via GraphQL Queries
+   - SQLi via HTTP Parameter Pollution (HPP)
+
+By https://t.me/Chaos_nexus_tech

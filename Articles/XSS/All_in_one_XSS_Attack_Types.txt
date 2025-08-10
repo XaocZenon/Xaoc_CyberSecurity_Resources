@@ -1,0 +1,44 @@
+XSS Attack Types
+
+- Stored XSS Variants
+Polyglot XSS
+Persistent XSS via WebSockets
+Mutation XSS (mXSS)
+Template Injection XSS
+SVG-Based XSS
+Service Worker XSS
+
+- Reflected XSS Variants
+Indirect Reflected XSS
+Data URI XSS
+Base64 Encoded XSS
+Self-XSS Exploitation for Session Hijacking
+Reverse Tabnabbing XSS
+
+- DOM-Based XSS Variants
+Prototype Pollution XSS
+Shadow DOM XSS
+RegEx-Based XSS
+WebSocket XSS
+PostMessage XSS
+Mutation Observer XSS
+CSS Injection XSS
+DOM Clobbering XSS
+
+- Browser-Specific XSS Variants
+Universal XSS
+Internet Explorer XSS
+Firefox Add-on XSS
+Edge-Specific XSS
+
+- Advanced Attack Scenarios
+Cookie Tossing XSS
+Cross-Origin XSS via WebAssembly
+Clickjacking XSS
+Script Gadget XSS
+Blind XSS via Webhooks
+Blind XSS via CSP Bypass
+JSONP XSS
+XHR Response XSS
+
+By https://t.me/Chaos_nexus_tech
